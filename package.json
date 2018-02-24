@@ -1,0 +1,24 @@
+{
+  "name": "comp397-f2017-mailpilotdemo",
+  "version": "1.0",
+  "main": "",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tsiliopoulos/COMP397-F2017-MailPilotDemo.git"
+  },
+  "author": "Tom Tsiliopoulos",
+  "license": "MIT",
+  "description": "COMP397 - F2017 - Mail Pilot Demo",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/easeljs": "^0.8.36",
+    "@types/preloadjs": "^0.6.32",
+    "@types/soundjs": "^0.6.27",
+    "@types/tweenjs": "^0.6.27"
+  },
+  "keywords": [],
+  "files": []
+}
